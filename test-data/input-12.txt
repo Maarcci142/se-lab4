@@ -1,0 +1,8 @@
+# 12 - SINGLE mode, primary fired last, then both stores empty
+# primary: 1 torpedo 0% fail, secondary: 0 torpedoes
+# 1st SINGLE: primary fires (primary -> 0), wasPrimaryFiredLast = true
+# 2nd SINGLE: secondary empty -> try primary -> primary also empty -> FAIL
+# Covers the branch: wasPrimaryFiredLast == true, secondary empty, primary empty
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # primary fires
+TORPEDO,SINGLE  # both empty -> FAIL
