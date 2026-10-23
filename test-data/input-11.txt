@@ -1,0 +1,4 @@
+# 11 - SINGLE mode, both stores empty from the start
+# Covers the branch: wasPrimaryFiredLast == false, primary empty, secondary empty
+GT4500,0,0,0,0
+TORPEDO,SINGLE  # nothing to fire -> FAIL
