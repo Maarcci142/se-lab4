@@ -1,0 +1,5 @@
+# 4 - If secondary is empty, the primary fires (twice in a row)
+# primary: 2 torpedoes 0% fail, secondary: 0 torpedoes
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # primary fires
+TORPEDO,SINGLE  # secondary empty -> primary fires again

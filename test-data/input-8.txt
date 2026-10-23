@@ -1,0 +1,4 @@
+# 8 - ALL mode, both stores fail
+# primary: 100% fail, secondary: 100% fail
+GT4500,10,1,10,1
+TORPEDO,ALL  # neither fires

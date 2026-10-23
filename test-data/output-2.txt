@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500 init
+SUCCESS  # <- primary
+SUCCESS  # <- secondary
+SUCCESS  # <- primary again

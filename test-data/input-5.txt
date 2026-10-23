@@ -1,0 +1,4 @@
+# 5 - Primary always fails, ship does NOT try the secondary
+# primary: torpedoes but 100% fail, secondary: torpedoes 0% fail
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # primary fails, secondary NOT tried

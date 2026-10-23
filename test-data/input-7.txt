@@ -1,0 +1,4 @@
+# 7 - ALL mode, only the secondary works
+# primary: 100% fail, secondary: 0% fail
+GT4500,10,1,10,0
+TORPEDO,ALL  # secondary fires

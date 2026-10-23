@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500 init
+FAIL     # <- primary failed, secondary not tried
