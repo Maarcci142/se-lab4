@@ -1,0 +1,5 @@
+# 2 - SINGLE mode alternates: primary, then secondary, then primary again
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # primary fires
+TORPEDO,SINGLE  # secondary fires
+TORPEDO,SINGLE  # primary fires again

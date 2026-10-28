@@ -1,0 +1,4 @@
+# 3 - If primary is empty, the secondary fires
+# primary: 0 torpedoes, secondary: 1 torpedo, no failures
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # secondary fires

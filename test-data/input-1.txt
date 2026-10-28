@@ -1,0 +1,4 @@
+# 1 - First SINGLE shot fires from the primary store
+# Ship with at least 2 torpedoes in both stores, no failures
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # primary fires

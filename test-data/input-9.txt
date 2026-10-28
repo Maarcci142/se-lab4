@@ -1,0 +1,4 @@
+# 9 - ALL mode, one store is empty
+# primary: 0 torpedoes, secondary: 10 torpedoes 0% fail
+GT4500,0,0,10,0
+TORPEDO,ALL  # non-empty store fires one
